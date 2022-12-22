@@ -10,7 +10,7 @@ This is a web based application developed for Beauty related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- web
+- mobile apps
 
 ## Features and Functionalities 😃
 
