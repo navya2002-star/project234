@@ -24,9 +24,6 @@ This is a web based application developed for Beauty related based website in in
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/115772634/204979007-0071c5cc-70a0-4b35-a8b0-10d782de29ab.png)
 
-![image](https://user-images.githubusercontent.com/115772634/204979056-73a80420-3a68-4ae8-b3cf-59194e9643e4.png)
-
-   
 
 ### About Us -
 
